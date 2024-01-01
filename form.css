@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.form{
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.row{
+    width: 100%;
+    float: left;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.check-radio{
+    width: 100%;
+    float: left;
+}
+
+.form-check{
+    width: 50%;
+    float: left;
+    margin-left: 25px;
+}
+
+.form-check p{
+    font-size: 30px;
+}
+
+.form-check label{
+    font-size: px;
+}
+
+.form-check input{
+    font-size: px;
+}
